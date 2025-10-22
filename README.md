@@ -1,5 +1,5 @@
 
-# Simplified Assignment 5 — Facade Pattern
+# Assignment 5 — Facade Pattern
 
 **Student:** Akhit Shugyla, Group SE-2403  
 **Topic:** Airline Ticket Booking System using `BookingFacade`
